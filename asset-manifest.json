@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/horos/static/css/main.e8615095.css",
-    "main.js": "/horos/static/js/main.55890aa6.js",
-    "static/js/787.6c3fad03.chunk.js": "/horos/static/js/787.6c3fad03.chunk.js",
-    "static/media/logo.png": "/horos/static/media/logo.d6c42622bddf5a8e7575.png",
-    "index.html": "/horos/index.html",
-    "main.e8615095.css.map": "/horos/static/css/main.e8615095.css.map",
-    "main.55890aa6.js.map": "/horos/static/js/main.55890aa6.js.map",
-    "787.6c3fad03.chunk.js.map": "/horos/static/js/787.6c3fad03.chunk.js.map"
+    "main.css": "/Horoscope/static/css/main.e8615095.css",
+    "main.js": "/Horoscope/static/js/main.d47ace0e.js",
+    "static/js/787.6c3fad03.chunk.js": "/Horoscope/static/js/787.6c3fad03.chunk.js",
+    "static/media/logo.png": "/Horoscope/static/media/logo.d6c42622bddf5a8e7575.png",
+    "index.html": "/Horoscope/index.html",
+    "main.e8615095.css.map": "/Horoscope/static/css/main.e8615095.css.map",
+    "main.d47ace0e.js.map": "/Horoscope/static/js/main.d47ace0e.js.map",
+    "787.6c3fad03.chunk.js.map": "/Horoscope/static/js/787.6c3fad03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8615095.css",
-    "static/js/main.55890aa6.js"
+    "static/js/main.d47ace0e.js"
   ]
 }
